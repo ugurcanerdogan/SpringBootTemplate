@@ -1,8 +1,8 @@
 # Spring Boot Project Template
 
-<img src="https://github.com/ugurcanerdogan/SpringBootTemplate/blob/master/img/1.png" width="512"/>
+<img src="https://github.com/ugurcanerdogan/SpringBootTemplate/blob/master/img/1.png" width="720"/>
 
-<img src="https://github.com/ugurcanerdogan/SpringBootTemplate/blob/master/img/2.png" width="512"/>
+<img src="https://github.com/ugurcanerdogan/SpringBootTemplate/blob/master/img/2.png" width="720"/>
 
 
 ## Build Status
@@ -12,9 +12,12 @@ GitHub Actions will fail for this draft repo. Because the project could not be d
 `Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
 `
 
+[![CodeQL](https://github.com/ugurcanerdogan/SpringBootTemplate/actions/workflows/codeql.yml/badge.svg)](https://github.com/ugurcanerdogan/SpringBootTemplate/actions/workflows/codeql.yml)
+
+[![Java CI with Maven](https://github.com/ugurcanerdogan/SpringBootTemplate/actions/workflows/maven.yml/badge.svg)](https://github.com/ugurcanerdogan/SpringBootTemplate/actions/workflows/maven.yml)
 
 ### Motivation
-It is a draft structure prepared for Spring Boot projects. Check the readme for details.
+It is a draft structure prepared for Spring Boot projects. Check the [readme](https://github.com/ugurcanerdogan/SpringBootTemplate/blob/master/README.md) for details.
 
 ## Solution
 
