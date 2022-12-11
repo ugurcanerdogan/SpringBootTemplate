@@ -87,12 +87,12 @@
             <plugin>
                 <groupId>io.spring.javaformat</groupId>
                 <artifactId>spring-javaformat-maven-plugin</artifactId>
-                <version>0.0.31</version>
+                <version>0.0.35</version>
             </plugin>
             <plugin>
                 <groupId>net.revelc.code</groupId>
                 <artifactId>impsort-maven-plugin</artifactId>
-                <version>1.2.0</version>
+                <version>1.8.0</version>
                 <configuration>
                     <removeUnused>true</removeUnused>
                     <staticGroups>*</staticGroups>
