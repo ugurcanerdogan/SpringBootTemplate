@@ -1,0 +1,16 @@
+#spring:
+#  mvc:
+#    pathmatch:
+#      matching-strategy: ant_path_matcher
+#  datasource:
+#    username:
+#    password:
+#    url:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    hikari:
+#      connection-timeout: 12000
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#server:
+#  port: 5000
